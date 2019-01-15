@@ -19,11 +19,11 @@
 ################################################################################
 
 PKG_NAME="mupen64plus"
-PKG_VERSION="0064cb4"
+PKG_VERSION="4a12c8f"
 PKG_REV="1"
 PKG_ARCH="arm i386 x86_64"
 PKG_LICENSE="GPLv2"
-PKG_SITE="https://github.com/libretro/mupen64plus-libretro"
+PKG_SITE="https://github.com/halsafar/mupen64plus-libretro"
 PKG_GIT_URL="$PKG_SITE"
 PKG_DEPENDS_TARGET="toolchain nasm:host"
 PKG_PRIORITY="optional"
